@@ -1,0 +1,1 @@
+Hello this is an example text for resolving merge conflicts
